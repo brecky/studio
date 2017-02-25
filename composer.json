@@ -1,7 +1,7 @@
 {
     "name": "orchestra/studio",
     "description": "Code Generator for Orchestra Platform",
-    "keyword": ["orchestra-platform", "orchestral", "code-generator"],
+    "keywords": ["orchestra-platform", "orchestral", "code-generator"],
     "license": "MIT",
     "authors": [
         {
